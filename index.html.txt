@@ -1,1 +1,48 @@
-hfjkhsjfs
+<html> 
+<head>
+</head> 
+<BODY BGCOLOR="GREY">
+<H1 ALIGN=CENTER>1-ші мәселе</H1>
+<FONT COLOR=RED> а)- «Қазақстан Республикасының мемлекеттік жастар саясаты» туралы заңын орындау; </FONT><BR>
+<HR COLOR=RED SІZE=2 WІDTH=100%><BR>
+<H1 ALIGN=CENTER>2-ші мәселе</H1>
+<FONT COLOR=”BLUE”> ə)- Университет жастары мен студенттерінің өзін-өзі басқаруын жан-жақты дамыту; </FONT><BR>
+<HR COLOR=BLUE SІZE=2 WІDTH=100%><BR>
+<H1 ALIGN=CENTER>3-ші мәселе</H1>
+<FONT COLOR=”GREEN”> б)- Жатақханаларда тұратын студенттердің азаматтық рөлі мен жауапкершілігін дамыту; </FONT><BR>
+<HR COLOR=GREEN SІZE=2 WІDTH=100%><BR>   
+</body> 
+</html>
+
+
+<html> 
+<head> 
+<title> Студенттер тізімі
+</title> 
+</head> 
+<H1 ALIGN=CENTER> <font color="grey"> Студенттер тізімі:</FONT><BR></H1>
+<body bgcolor="indigo">
+<p><font color="red">1) Басканбаева Диана </FONT><BR><p>
+<p><font color="green">2) Байжанов Алишер </FONT><BR><p>
+<HR COLOR=RED SІZE=2 WІDTH=100%><BR>
+<p><font color="yellow">3) Турсыналиев Бекнур </FONT><BR><p>
+<HR COLOR=BLACK SІZE=2 WІDTH=100%><BR>
+<p><font color="purple">4) Нугманова Мерей </FONT><BR><p>
+<p><font color="blue">5) Куншыраков Ахметжан </FONT><BR><p>
+<HR COLOR=BROWN SІZE=2 WІDTH=100%><BR>
+<p><font color="pink">6) Нугманова Аида </FONT><BR><p>
+<p><font color="orange">7) Толепбергенова Камилла </FONT><BR><p>
+</body>
+</html>
+
+
+<html> 
+<head>
+</head> 
+<BODY BGCOLOR="orange">
+<H1 ALIGN=CENTER><font color="yellow">Наурыз мейрамы </FONT><BR></H1>
+<p><FONT COLOR="yellow" FACE="ARІAL" SІZE="4">Наурыз </FONT>— шығыс елдерінің бүкілхалықтық мейрамы, Ұлыстың ұлы күні. <FONT COLOR="yellow" FACE="ARІAL" SІZE="3">Наурыз</FONT> шығыс халықтарында жыл басы мерекесі ретінде тойланып, ерекше күн ретінде аталып өтіледі. Қазақ халқы да <FONT COLOR="yellow" FACE="ARІAL" SІZE="3">Наурыз</FONT> мерекесін айрықша бағалап, оны жыл сайын тойлап отыруды салт-дәстүрге айландырған. </p>
+<p>Шығыстың данышпандары <FONT COLOR="red" FACE="ARІAL" SІZE="4">Махмұд Қашқари</FONT>, <FONT COLOR="red" FACE="ARІAL" SІZE="4">Омар Хаямнан</FONT> бастап қазақтың ұлы ақыны <FONT COLOR="red" FACE="ARІAL" SІZE="4">Абай Құнанбаев</FONT>, <FONT COLOR="red" FACE="ARІAL" SІZE="4">Әлихан Бөкейханов</FONT>, <FONT COLOR="red" FACE="ARІAL" SІZE="4">Ахмет Байтұрсынов</FONT>, <FONT COLOR="red" FACE="ARІAL" SІZE="4">Сәкен Сейфуллин</FONT> сынды ұлт қайраткерлері де <FONT COLOR="yellow" FACE="ARІAL" SІZE="3">Наурыз</FONT> туралы еңбектер, өлеңдер, асыл сөздер жазып қалдырған.</p>
+<FONT COLOR="yellow" FACE="ARІAL" SІZE="3">Наурыз</FONT> шығыс елдері үшін бірліктің, татулықтың, еңбектің, ізгіліктің, бақыттың мерекесі ретінде тойланған. Сондықтан да болар, бұл күні шаттанбайтын, қуанбайтын, мейірленбейтін адам болмаған.Бұл күні жақсы тілек тілеу, құттықтау, кешірім жасау, табысу сияқты адамгершілік қасиеттер көрініс тауып, кейінгі ұрпақтар сондай жақсы өнегеден үлгі алған. 
+</body> 
+</html>
